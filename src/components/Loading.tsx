@@ -10,7 +10,7 @@ export function Loading() {
         backgroundColor: "#09090A",
       }}
     >
-      <ActivityIndicator color="#7c3aed" />
+      <ActivityIndicator color="#85ed3a" />
     </View>
   );
 }
